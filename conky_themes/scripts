@@ -1,0 +1,16 @@
+#!/bin/bash
+conky -c /home/aligatorx/Downloads/conky_themes/cpu4cores &
+conky -c /home/aligatorx/Downloads/conky_themes/disk &
+conky -c /home/aligatorx/Downloads/conky_themes/nvida &
+conky -c /home/aligatorx/Downloads/conky_themes/procs &
+conky -c /home/aligatorx/Downloads/conky_themes/mem &
+conky -c /home/aligatorx/Downloads/conky_themes/Hermoso_Rc &
+conky -c /home/aligatorx/Downloads/conky_themes/net
+
+
+
+
+
+
+
+
